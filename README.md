@@ -11,10 +11,15 @@ A simple yet fun Discord bot built with Python and the discord.py library. This 
 
 🟡Kick Command: Moderation tool to kick members from the server.
 ## 📋 Command List
-Command	Description	Usage \n
+Command	Description	Usage
 $hello	Sends a greeting message.	$hello
+
 $ping	Checks the bot's latency.	$ping
+
 $say	Makes the bot repeat a message.	$say [your message]
+
 $8ball	Answers a yes/no question.	$8ball [your question]
+
 $info	Displays information about a user.	$info [optional: @user]
+
 $kick	Kicks a member from the server.	$kick @user [reason]
